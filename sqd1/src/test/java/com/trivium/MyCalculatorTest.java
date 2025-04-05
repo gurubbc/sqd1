@@ -17,7 +17,7 @@ class MyCalculatorTest {
 	}
 	
 	@Test
-	void testSub()  
+	void testSub()   
 	{
 		
 		MyCalculator mc=new MyCalculator();
