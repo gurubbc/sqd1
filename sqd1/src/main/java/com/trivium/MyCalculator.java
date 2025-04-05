@@ -8,7 +8,6 @@ public class MyCalculator {
 	
 	public int sub(int a, int b)
 	{
-		a=5;
 		return a-b;
 	}
 }

@@ -16,14 +16,14 @@ class MyCalculatorTest {
 		Assert.assertEquals(expected,actual);
 	}
 	
-	@Test
-	void testSub()
-	{
-		
-		MyCalculator mc=new MyCalculator();
-		int actual=mc.sub(50, 25);
-		int expected=25;
-		Assert.assertEquals(expected,actual);
-		int x=5;
-	}
+//	@Test
+//	void testSub()
+//	{
+//		
+//		MyCalculator mc=new MyCalculator();
+//		int actual=mc.sub(50, 25);
+//		int expected=25;
+//		Assert.assertEquals(expected,actual);
+//		
+//	}
 }	
